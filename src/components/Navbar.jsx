@@ -36,9 +36,9 @@ const Navbar = () => {
           <a href="#how" className="hover:text-white transition-colors">
             How It Works
           </a>
-          <a href="/" className="hover:text-white transition-colors">
+          <button className="hover:text-white transition-colors">
             Support
-          </a>
+          </button>
         </div>
 
         {/* CTA */}
