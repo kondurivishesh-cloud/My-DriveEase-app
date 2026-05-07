@@ -41,7 +41,7 @@ const Footer = () => (
               {col.links.map((link) => (
                 <li key={link}>
                   <a
-                    href="#"
+                    href="/"
                     className="text-slate-500 hover:text-slate-300 text-sm transition-colors"
                   >
                     {link}
